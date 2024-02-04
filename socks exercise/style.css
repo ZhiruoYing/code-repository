@@ -1,0 +1,89 @@
+#breadcrumbs ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #eee;
+
+}
+
+#breadcrumbs ul li {
+    display: inline;
+    margin-right: Spx;
+}
+
+.product_title {
+    text-align: center;
+    color: burlywood;
+}
+
+.product-image img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+.product-options {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.size-options button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.quanity {
+    margin-bottom: 10px;
+}
+
+.quanity select {
+    padding: Spx;
+}
+
+.price {
+    font: size 1.2em;
+    font-weight: bold;
+}
+
+.add-to-bag {
+    background-color: chartreuse;
+    color: #eee;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.product-discription,
+.delivery-options,
+.customer-reviews {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.delivery-options {
+    /*border-collapes:collaps;*/
+    width: 100%
+}
+
+.delivery-options,
+.delivery-options th,
+.delivery-options td {
+    border: 1px solid black
+}
+
+.delivery-options th,
+.delivery-options td {
+    padding: 8px;
+    text-align: left;
+}
+
+.customer-reviews {
+    padding: 15px;
+    margin-bottom: 18px;
+}
+
+.customer-reviews 3
